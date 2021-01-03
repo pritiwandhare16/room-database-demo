@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RoomDBDemo</string>
+    <string name="not_save">Note is not saved</string>
+    <string name="saved">Note saved succssfully</string>
+</resources>
